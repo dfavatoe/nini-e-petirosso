@@ -138,10 +138,4 @@ Update all text strings to use translation keys
 📄 License
 © 2011-2024 Nini e Pettirosso. All rights reserved.
 
-📧 Support
-For issues, questions, or suggestions, contact:
-
-Email: ciao@niniepettirosso.de
-Phone: 030 1234 5678
-🎉 Credits
 Developed with React, TypeScript, and Tailwind CSS. Design inspired by modern Italian restaurant aesthetics and web best practices.
